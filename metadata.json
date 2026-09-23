@@ -1,0 +1,6 @@
+{
+  "name": "মন্ডল এন্টারপ্রাইজ",
+  "description": "মন্ডল এন্টারপ্রাইজ ই-কমার্স ও প্রোডাক্ট অর্ডারিং অ্যাপ - বিশ্বস্ততার আরেক নাম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
